@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,6 +11,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
@@ -35,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 Trovo
 TryHackMe
@@ -53,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
