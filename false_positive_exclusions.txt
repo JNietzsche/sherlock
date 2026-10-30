@@ -19,8 +19,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,9 +34,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
