@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,6 +20,8 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -40,10 +43,10 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
