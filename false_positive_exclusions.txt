@@ -7,6 +7,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
+Coders Rank
 Codolio
 DeviantArt
 Discord.bio
@@ -23,7 +24,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -33,7 +33,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
