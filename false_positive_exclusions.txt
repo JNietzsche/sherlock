@@ -1,13 +1,9 @@
-APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
-Coders Rank
 Codolio
 DeviantArt
 Discord.bio
@@ -24,6 +20,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -44,6 +41,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
