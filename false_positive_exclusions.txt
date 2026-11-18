@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -13,9 +15,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -23,6 +23,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -35,6 +36,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -43,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
