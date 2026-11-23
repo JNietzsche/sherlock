@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -25,6 +24,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SpaceHey
 Splice
 Spotify
 Trakt
@@ -34,6 +34,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -42,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
